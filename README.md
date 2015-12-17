@@ -26,7 +26,6 @@ Download the latest version [here](https://github.com/Gremsy/gStabi-H6-Firmware/
 
 # Support:
 Email: support@gremsy.com
-
 Website: www.gremsy.com
 
 
